@@ -38,7 +38,7 @@ As of May 1, 2020:
 ## Iceland
 
 [covid.is](https://www.covid.is/announcements)  
-As of May 1. 2020:
+As of May 1, 2020:
 > From Friday April 24th, international arrivals to Iceland must be quarantined for 14 days from their day of arrival and temporary internal Schengen border controls will be introduced on the same day. Barring any changes in the medical and scientific advice, these rules will remain in place until at least May 15th.
 
 [IcelandAir](https://www.icelandair.com/blog/iceland-unites-against-covid-19/) repeats the above restriction. (published April 2, 2020)
@@ -48,3 +48,14 @@ As of May 1, 2020:
 > You may cancel your booking and apply for a Travel Credit Voucher:
 > - if your ticket was booked for travel up to and including June 30, 2020.
 > - if your ticket was issued by Icelandair (ticket number starts with 108).
+
+## United Arab Emirates
+
+[U.S. Embassy in UAE COVID-19 Information](https://ae.usembassy.gov/u-s-citizen-services/covid-19-information/)  
+
+[UAE Ministry of Health COVID-19](https://doh.gov.ae/covid-19)
+
+[gov.uk Foreign travel advice United Arab Emirates](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/coronavirus)  
+As of May 1, 2020:
+> - From 19 March, only UAE Citizens are allowed to enter the UAE.
+> - The UAE suspended all inbound and outbound flights at 11:59pm local time on Tuesday 24 March.
