@@ -1,6 +1,11 @@
 # covid-travel
 
-Research for travel restrictions during the novel Coronavirus COVID-19 
+Research for travel restrictions during the novel Coronavirus COVID-19.  
+
+From ***WHO***:
+
+- [Coronavirus disease (COVID-2019) situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+- [Coronavirus disease (COVID-19) travel advice](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice)
 
 ## USA
 
