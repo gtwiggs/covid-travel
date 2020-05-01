@@ -26,7 +26,7 @@ As of May 1, 2020:
 As of May 1, 2020:
 > ...international travel is still cancelled until the 1st of June.
 
-[air greenland cancellation info](https://www.airgreenland.com/travel-info/before-travel/covid-19?utm_source=web&utm_medium=sleeknote&utm_content=info&utm_campaign=covid19)
+[air greenland cancellation info](https://www.airgreenland.com/travel-info/before-travel/covid-19?utm_source=web&utm_medium=sleeknote&utm_content=info&utm_campaign=covid19)  
 As of May 1, 2020:
 > Flights over the Atlantic are canceled and continue to be canceled until 31 May. If you have purchased a ticket directly from Air Greenland, the ticket will be refunded automatically.
 
