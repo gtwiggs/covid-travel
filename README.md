@@ -35,6 +35,8 @@ As of May 1, 2020:
 As of May 1, 2020:
 > Flights over the Atlantic are canceled and continue to be canceled until 31 May. If you have purchased a ticket directly from Air Greenland, the ticket will be refunded automatically.
 
+> The change fee for new Standard and Premium tickets will not be charged for change of travel until 31 July 2020.
+
 ## Iceland
 
 [covid.is](https://www.covid.is/announcements)  
