@@ -2,6 +2,8 @@
 
 Research for travel restrictions during the novel Coronavirus COVID-19.  
 
+[IATA Interactive Coronavirus (Covid-19) Travel Regulations Map](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) is a wonderful tool for a quick view of the state of travel. Focused on now, not future travel.
+
 From ***WHO***:
 
 - [Coronavirus disease (COVID-2019) situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
