@@ -9,6 +9,8 @@ From ***WHO***:
 - [Coronavirus disease (COVID-2019) situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 - [Coronavirus disease (COVID-19) travel advice](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice)
 
+The [British Airways COVID-19 Hub](https://www.britishairways.com/en-us/information/incident/coronavirus/latest-information) is a useful clearinghouse for entry requirements.
+
 ## USA
 
 [COVID-19 Travel Recommendations by Country](https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html)  
